@@ -1,3 +1,5 @@
+OBJECTIVE OF ANALYSIS
+
 Understand Pricing Trends: Analyze the selling prices, median values, and outliers to identify patterns, outliers, and key insights regarding bike pricing.
 
 Evaluate Seller and Ownership Characteristics: Gain insights into the most common seller types, distribution of ownership types, and their influence on bike attributes like km driven and selling price.
